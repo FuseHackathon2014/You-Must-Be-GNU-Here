@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LAND-Guard</string>
+    <string name="main_button">Use LAND-Guard</string>
+    <string name="emergency_title">Emergency</string>
+    <string name="location_title">Location</string>
+    <string name="severity_title">Severity</string>
+    <string name="special_instructions_title">Special Instructions</string>
+    <string name="special_instructions_hint">40 Character Limit</string>
+    <string name="location_hint">40 Character Limit</string>
+    <string name="submit_button">Submit</string>
+</resources>
